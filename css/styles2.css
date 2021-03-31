@@ -1,0 +1,12 @@
+h1 {
+  font-stretch: expanded;
+  font-family: fantasy;
+  font-size: 100px;
+}
+h3 {
+  font-weight: 80px;
+  color: blue;
+}
+h2 {
+  background-color: hotpink;
+}
